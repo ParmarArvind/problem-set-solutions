@@ -15,6 +15,7 @@ public:
         int i=0;
         vector<int>result(n-k+1);
         result[i]=pq.top();
+        
         while(j<n)
         {
             mp[nums[i]]--;
@@ -28,7 +29,5 @@ public:
             result[i]=pq.top();
         }
         return result;
-
-
     }
 };
