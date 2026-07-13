@@ -1,0 +1,29 @@
+class Solution {
+public:
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        int n=arr.size();
+        if(n==0) return {};
+        priority_queue<pair<int,int> ,vector<pair<int,int>> ,greater<pair<int,int>>>pq; //min heap
+
+        for(int i=0;i<n;i++)
+        {
+            pq.push({arr[i],i});
+        }
+
+        int rank=0;
+        vector<int>result(n);
+        int prev=INT_MAX;
+        while(!pq.empty())
+        {
+            auto curr=pq.top();
+            pq.pop();
+            if(prev!=curr.first) rank++;
+
+            result[curr.second]=rank;
+            
+            prev=curr.first;
+        }
+
+        return result;
+    }
+};
