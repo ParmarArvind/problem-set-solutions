@@ -25,10 +25,12 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -57,4 +60,8 @@
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
