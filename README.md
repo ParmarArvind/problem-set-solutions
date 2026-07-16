@@ -75,10 +75,16 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
