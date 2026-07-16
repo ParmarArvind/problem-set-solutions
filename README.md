@@ -72,4 +72,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
