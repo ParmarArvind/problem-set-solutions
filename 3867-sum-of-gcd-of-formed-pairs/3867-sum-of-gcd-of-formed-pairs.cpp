@@ -1,15 +1,15 @@
 class Solution {
 public:
-    int gcd(int a,int b)
-    {
-            while(a!=0)
-            {
-                int rem=b%a;
-                b=a;
-                a=rem;
-            }
-            return b;
-    }
+    // int gcd(int a,int b)
+    // {
+    //         while(a!=0)
+    //         {
+    //             int rem=b%a;
+    //             b=a;
+    //             a=rem;
+    //         }
+    //         return b;
+    // }
     long long gcdSum(vector<int>& nums) {
         int maxEle=nums[0];
         int n=nums.size();
