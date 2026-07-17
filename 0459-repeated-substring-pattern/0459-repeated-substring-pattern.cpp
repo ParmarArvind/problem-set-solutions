@@ -2,7 +2,7 @@ class Solution {
 public:
     bool repeatedSubstringPattern(string s) {
         int n = s.size();
-        for (int i = 0; i <n - 1; i++) {
+        for (int i = 0; i <n/2; i++) {
              int m = i + 1;
 
             if (n % m != 0)
