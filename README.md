@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -87,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
 ## Two Pointers
