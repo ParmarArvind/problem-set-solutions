@@ -103,6 +103,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -131,6 +132,7 @@
 | [0328-odd-even-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
