@@ -9,6 +9,7 @@
 | [0239-sliding-window-maximum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -77,11 +78,13 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
