@@ -120,4 +120,8 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
