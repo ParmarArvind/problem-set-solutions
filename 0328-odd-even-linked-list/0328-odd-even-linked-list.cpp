@@ -1,33 +1,59 @@
+//method -3  o(1)space , o(n) time 
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        ListNode* evenDummy=new ListNode(0);
-        ListNode* oddDummy=new ListNode(0);
-        ListNode* temp=head;
-        ListNode* even=evenDummy;
-        ListNode* odd=oddDummy;
-        int i=0;
-        while(temp)
+        if(!head || !head->next) return head;
+        
+        ListNode* odd=head;
+        ListNode* even=head->next;
+        ListNode* evenStart=head->next;
+
+        while(even && even->next)
         {
-            if(i%2==0) {
-                even->next=new ListNode(temp->val);
-                even=even->next;
-            }
-            else{
-                odd->next=new ListNode(temp->val);
-                odd=odd->next;
-            }
+            odd->next=even->next;
+            
+            odd=odd->next;
 
-            i++;
-            temp=temp->next;
+            even->next=odd->next;
+            
+            even=even->next;
         }
-        even->next=oddDummy->next;
-
-    return evenDummy->next;
+        odd->next=evenStart;
+        return head;
     }
 };
 
+// // method-2better version of brute force
+// class Solution {
+// public:
+//     ListNode* oddEvenList(ListNode* head) {
+//         ListNode* evenDummy=new ListNode(0);
+//         ListNode* oddDummy=new ListNode(0);
+//         ListNode* temp=head;
+//         ListNode* even=evenDummy;
+//         ListNode* odd=oddDummy;
+//         int i=0;
+//         while(temp)
+//         {
+//             if(i%2==0) {
+//                 even->next=new ListNode(temp->val);
+//                 even=even->next;
+//             }
+//             else{
+//                 odd->next=new ListNode(temp->val);
+//                 odd=odd->next;
+//             }
 
+//             i++;
+//             temp=temp->next;
+//         }
+//         even->next=oddDummy->next;
+
+//     return evenDummy->next;
+//     }
+// };
+
+// //method -1  (brute force )
 // class Solution {
 // public:
 //     ListNode* oddEvenList(ListNode* head) {
