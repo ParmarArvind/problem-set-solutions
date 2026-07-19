@@ -1,33 +1,82 @@
-// method -2 using stack
+// method -3 reverse one half
 class Solution {
 public:
+    ListNode* reverseLL(ListNode* head)
+    {
+        ListNode* curr=head;
+        ListNode* prev=nullptr;
+        while(curr)
+        {
+            ListNode* next=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=next;
+        }
+
+        return prev;
+
+    }
     int pairSum(ListNode* head) {
 
         ListNode* slow=head;
         ListNode* fast=head;
-        stack<int>st;
+        ListNode* prev=nullptr;
 
         while(fast && fast->next)
         {
-            st.push(slow->val);
+            prev=slow;
             slow=slow->next;
             fast=fast->next->next;
         }
-        // now remove the st top and add it to the current nodes val i.e. its twin pair 
+        // reverse the second half;
+        prev->next=nullptr;
+        ListNode* head2=reverseLL(slow);
+        
         int result=0;
-        while(slow)
+        while(head)
         {
-            int currSum=st.top()+slow->val;
-            st.pop();
-            result=max(result,currSum);
-
-            slow=slow->next;
-        }        
+            result=max(result, head->val +head2->val);
+            head=head->next;
+            head2=head2->next;
+        }
 
         return result;
-
+        
     }
 };
+
+
+
+// // method -2 using stack
+// class Solution {
+// public:
+//     int pairSum(ListNode* head) {
+
+//         ListNode* slow=head;
+//         ListNode* fast=head;
+//         stack<int>st;
+
+//         while(fast && fast->next)
+//         {
+//             st.push(slow->val);
+//             slow=slow->next;
+//             fast=fast->next->next;
+//         }
+//         // now remove the st top and add it to the current nodes val i.e. its twin pair 
+//         int result=0;
+//         while(slow)
+//         {
+//             int currSum=st.top()+slow->val;
+//             st.pop();
+//             result=max(result,currSum);
+
+//             slow=slow->next;
+//         }        
+
+//         return result;
+
+//     }
+// };
 
 // method -1
 // class Solution {
