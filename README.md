@@ -38,12 +38,14 @@
 | [0155-min-stack](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
 |  |
@@ -194,4 +197,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
