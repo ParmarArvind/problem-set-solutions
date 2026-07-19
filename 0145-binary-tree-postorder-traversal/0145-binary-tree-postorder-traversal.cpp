@@ -12,20 +12,49 @@
 
 class Solution {
 public:
-    void postOrder(TreeNode* root ,vector<int>&result)
-    {
-        if(!root) return ;
-
-        postOrder(root->left,result);
-        
-        postOrder(root->right,result);
-
-        result.push_back(root->val);
-
-    }
+    // method -2 morris travesal
     vector<int> postorderTraversal(TreeNode* root) {
+
+        if(!root) return {};
         vector<int>result;
-        postOrder(root,result);
+        stack<pair<TreeNode* ,int>>st; // node, no_of_times_visited
+        st.push({root,1});
+        while(!st.empty())
+        {
+            auto [node,count]=st.top();
+            st.pop();
+            if(count==2) result.push_back(node->val);
+            else {
+                
+                st.push({node,count+1});
+
+                if(node->right) st.push({node->right,1});
+
+                if(node->left) st.push({node->left,1});
+
+            }
+        }
         return result;
     }
 };
+
+// class Solution {
+// public:
+// void postOrder(TreeNode* root, vector<int>& ans) {
+//         if (!root) return; // Handle nullptr case
+
+       
+//         if (root->left) postOrder(root->left, ans);
+        
+//         if (root->right) postOrder(root->right, ans);
+
+//          ans.push_back(root->val);
+
+//     } 
+//     vector<int> postorderTraversal(TreeNode* root) {
+//          vector<int> ans;
+//         postOrder(root, ans);
+//         return ans;
+        
+//     }
+// };
