@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
