@@ -11,23 +11,32 @@
  */
 class Solution {
 public:
-    // method -2 morris traversal
+    // method -2 iterative inorder traversal
     vector<int> inorderTraversal(TreeNode* root) {
         if(!root) return {};
         vector<int>result;
-        stack<pair<TreeNode* ,int>>st; // node, no_of_times_visited
-        st.push({root,1});
-        while(!st.empty())
+        TreeNode* curr=root;
+        while(curr)
         {
-            auto [node,count]=st.top();
-            st.pop();
-            if(count==2) result.push_back(node->val);
-            else {
-                // first oush it right
-                if(node->right) st.push({node->right,1});
-                st.push({node,2});
-                if(node->left) st.push({node->left,1});
-            }
+            // we visited the left part so , print the curr 
+           if(!curr->left )
+           {
+                result.push_back(curr->val);
+                curr=curr->right;
+           }
+           else{
+                TreeNode* leftChild=curr->left;
+                while(leftChild->right) leftChild=leftChild->right;
+                // make a path to come back at root 
+                leftChild->right=curr;
+
+                // now mark the curr left to null
+
+                TreeNode* temp=curr;
+                curr=curr->left;
+                temp->left=nullptr;
+           }
+
         }
 
         return result;
