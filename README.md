@@ -119,6 +119,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0086-partition-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0165-compare-version-numbers) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -148,6 +149,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0328-odd-even-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
