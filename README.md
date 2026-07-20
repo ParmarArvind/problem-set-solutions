@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +152,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0086-partition-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0445-add-two-numbers-ii) |
