@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -209,6 +210,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
@@ -222,5 +224,10 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
