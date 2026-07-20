@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -208,9 +209,18 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
