@@ -1,45 +1,42 @@
-// method -1 BFS
 class Solution {
-  public:
-    int canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        // code here
-        vector<int>inDegree(numCourses,0);
-        unordered_map<int,vector<int>>adj;
-        for(auto &edge :prerequisites)
+public:
+// using dfs
+    bool dfs(unordered_map<int,vector<int>>& adj,vector<bool> &visited,vector<bool>& inRecursion,int u)
+    {
+        visited[u]=true;
+        inRecursion[u]=true;
+
+        for(int v:adj[u])
         {
-            int v=edge[0];
-            int u=edge[1];
-            adj[u].push_back(v);
-            inDegree[v]++;
-        }
-        
-        queue<int>que;
-        int count=0;
-        for(int i=0;i<numCourses;i++) 
-        {
-            if(inDegree[i]==0) {
-                que.push(i);
-                count++;
-            }
-        }
-        
-        while(!que.empty())
-        {
-            int u=que.front();
-            que.pop();
+            if(inRecursion[v] ==true) return true;
+            if(!visited[v] && dfs(adj,visited,inRecursion,v))
+                return true;
             
-            for(auto & v:adj[u])
-            {
-                inDegree[v]--;
-                    
-                if(inDegree[v]==0)
-                {
-                    que.push(v);
-                    count++;
-                }
-            }
         }
+        inRecursion[u]=false;
+        return false;
+    }
+    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+        // make graph .
+        unordered_map<int,vector<int>>adj;
+        for(int i=0;i<prerequisites.size();i++)
+        {
+            int u=prerequisites[i][1];
+            int v=prerequisites[i][0];
+
+            adj[u].push_back(v);
+        }
+
+        vector<bool> visited(numCourses,0);
+        vector<bool> inRecursion(numCourses,0);
+
+        for(int i=0;i<numCourses;i++)
+        {
+            if(!visited[i] && dfs(adj,visited,inRecursion,i) ) return false;
+        }
+
         
-        return count==numCourses;
+        return true;
+        
     }
 };
