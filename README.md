@@ -78,6 +78,7 @@
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -214,6 +215,7 @@
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
@@ -223,12 +225,14 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
