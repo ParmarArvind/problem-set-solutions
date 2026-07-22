@@ -119,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
@@ -189,6 +190,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -203,6 +205,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
@@ -222,6 +225,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
@@ -248,4 +252,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
