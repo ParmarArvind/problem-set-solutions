@@ -17,12 +17,14 @@
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -80,6 +82,7 @@
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -187,6 +190,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -200,6 +204,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -220,6 +225,7 @@
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
