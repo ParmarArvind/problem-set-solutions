@@ -76,6 +76,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0101-symmetric-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -222,6 +225,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0199-binary-tree-right-side-view) |
