@@ -15,7 +15,7 @@ public:
     int find(TreeNode* root)
     {
         if(!root) return 0;
-        
+        if(!root->left && !root->right) return 1;
         int left=find(root->left);
         int right=find(root->right);
         result=max(result,left+right);
