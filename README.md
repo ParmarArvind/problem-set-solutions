@@ -7,6 +7,7 @@
 | [0014-longest-common-prefix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0014-longest-common-prefix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0239-sliding-window-maximum) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -190,6 +192,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Tree
 |  |
@@ -201,6 +204,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -226,6 +230,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
