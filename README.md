@@ -366,4 +366,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
