@@ -9,6 +9,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0198-house-robber](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0239-sliding-window-maximum) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0198-house-robber) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Simulation
