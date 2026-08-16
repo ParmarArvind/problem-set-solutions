@@ -1,3 +1,32 @@
+class Solution {
+public:
+    int findLongestChain(vector<vector<int>>& pairs) {
+        
+        int n=pairs.size();
+        sort(pairs.begin(), pairs.end() ,[](auto &a ,auto&b)
+        {
+            return a[1]<b[1];
+        });
+        
+        
+        int maxLength=1;
+        int prev=0;
+        for(int curr=1;curr<n;curr++)
+        {
+            if(pairs[prev][1] <pairs[curr][0])
+            {
+                prev=curr;
+                maxLength++;
+            }
+        }
+       
+        return maxLength;
+
+    }
+};
+
+
+
 // class Solution {
 // public:
 //     int findLongestChain(vector<vector<int>>& pairs) {
@@ -27,26 +56,26 @@
 
 
 
-class Solution {
-public:
-    int dp[1001][1001];
-    int solve(vector<vector<int>>& pairs ,int curr,int prev)
-    {
-        if(curr>=pairs.size()) return 0;
+// class Solution {
+// public:
+//     int dp[1001][1001];
+//     int solve(vector<vector<int>>& pairs ,int curr,int prev)
+//     {
+//         if(curr>=pairs.size()) return 0;
 
-        if(prev!=-1 && dp[curr][prev]!=-1) return dp[curr][prev];
+//         if(prev!=-1 && dp[curr][prev]!=-1) return dp[curr][prev];
 
-        int take=0;
-        if(prev==-1 || pairs[prev][1]<pairs[curr][0]) take=1+solve(pairs,curr+1,curr);
-        int skip=solve(pairs,curr+1, prev);
+//         int take=0;
+//         if(prev==-1 || pairs[prev][1]<pairs[curr][0]) take=1+solve(pairs,curr+1,curr);
+//         int skip=solve(pairs,curr+1, prev);
 
-        if(prev==-1) return max(take,skip);
-        return dp[curr][prev]=max(take,skip);
-    }
+//         if(prev==-1) return max(take,skip);
+//         return dp[curr][prev]=max(take,skip);
+//     }
 
-    int findLongestChain(vector<vector<int>>& pairs) {
-        sort(pairs.begin(),pairs.end());
-        memset(dp,-1,sizeof(dp));
-        return solve(pairs ,0,-1);
-    }
-};
+//     int findLongestChain(vector<vector<int>>& pairs) {
+//         sort(pairs.begin(),pairs.end());
+//         memset(dp,-1,sizeof(dp));
+//         return solve(pairs ,0,-1);
+//     }
+// };
