@@ -18,6 +18,7 @@
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -33,6 +34,7 @@
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
@@ -42,6 +44,7 @@
 | [0242-valid-anagram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -158,6 +161,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
@@ -169,6 +173,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -181,6 +186,7 @@
 | [0213-house-robber-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
