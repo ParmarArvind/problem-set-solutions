@@ -13,6 +13,7 @@
 | [0213-house-robber-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -176,6 +177,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -265,6 +267,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -376,4 +379,8 @@
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1683-invalid-tweets) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
