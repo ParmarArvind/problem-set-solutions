@@ -11,7 +11,7 @@ public:
             return 0;
         }
 
-        if(maxVal!=-1 && dp[idx][searchCost][maxVal] !=-1) return dp[idx][searchCost][maxVal] ;
+        if(dp[idx][searchCost][maxVal] !=-1) return dp[idx][searchCost][maxVal] ;
 
         int totalWays=0;
         for(int i=1;i<=M;i++)
@@ -24,7 +24,7 @@ public:
             
         }
 
-        if(maxVal==-1) return totalWays%MOD;
+        
         return dp[idx][searchCost][maxVal] =totalWays%MOD;
     }
 
