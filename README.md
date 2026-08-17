@@ -16,6 +16,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
+| [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
@@ -161,6 +162,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0459-repeated-substring-pattern](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
+| [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -362,6 +364,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -369,6 +372,7 @@
 | [0210-course-schedule-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0785-is-graph-bipartite) |
+| [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
