@@ -1,4 +1,4 @@
-// BFS better 
+// dijkstra 
 class Solution {
 public:
     vector<vector<int>> directions = {
@@ -12,51 +12,105 @@ public:
 
         if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
             return -1;
+        vector<vector<int>>result(n,vector<int>(n,INT_MAX));
+        queue<pair<int, pair<int,int>>> que;
 
-        queue<pair<int, int>> que;
-
-        que.push({0, 0});
-        grid[0][0] = 1;
-
+        que.push({0, {0,0}});
+        result[0][0] = 0;
+        grid[0][0]=1;
         int level = 1;
 
-        while (!que.empty()) {
+        while (!que.empty())
+        {
 
-            int size = que.size();
+            int d = que.front().first;
+            pair<int,int>p=que.front().second;
+            int i=p.first;
+            int j=p.second;
+            que.pop();
 
-            // Process one complete level
-            while (size--) {
+            for (auto& dir : directions) {
 
-                auto [i, j] = que.front();
-                que.pop();
+                int new_i = i + dir[0];
+                int new_j = j + dir[1];
+                int dist=1;
+                if (new_i >= 0 && new_i < n &&
+                    new_j >= 0 && new_j < n &&
+                    grid[new_i][new_j] == 0 &&
+                    d+dist <result[new_i][new_j]) {
 
-                // Destination
-                if (i == n - 1 && j == n - 1)
-                    return level;
+                    // Mark visited when pushing
+                    grid[new_i][new_j] = 1;
+                    que.push({d+dist ,{new_i, new_j}});
+                    result[new_i][new_j]=d+dist;
 
-                for (auto& dir : directions) {
-
-                    int new_i = i + dir[0];
-                    int new_j = j + dir[1];
-
-                    if (new_i >= 0 && new_i < n &&
-                        new_j >= 0 && new_j < n &&
-                        grid[new_i][new_j] == 0) {
-
-                        // Mark visited when pushing
-                        grid[new_i][new_j] = 1;
-
-                        que.push({new_i, new_j});
-                    }
                 }
             }
-
-            level++;
         }
 
-        return -1;
+        return result[n-1][n-1] ==INT_MAX ?-1 : result[n-1][n-1]+1;
     }
 };
+
+// // better BFS
+// class Solution {
+// public:
+//     vector<vector<int>> directions = {
+//         {0, 1}, {1, 0}, {0, -1}, {-1, 0},
+//         {1, -1}, {-1, 1}, {1, 1}, {-1, -1}
+//     };
+
+//     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
+
+//         int n = grid.size();
+
+//         if (grid[0][0] == 1 || grid[n - 1][n - 1] == 1)
+//             return -1;
+
+//         queue<pair<int, int>> que;
+
+//         que.push({0, 0});
+//         grid[0][0] = 1;
+
+//         int level = 1;
+
+//         while (!que.empty()) {
+
+//             int size = que.size();
+
+//             // Process one complete level
+//             while (size--) {
+
+//                 auto [i, j] = que.front();
+//                 que.pop();
+
+//                 // Destination
+//                 if (i == n - 1 && j == n - 1)
+//                     return level;
+
+//                 for (auto& dir : directions) {
+
+//                     int new_i = i + dir[0];
+//                     int new_j = j + dir[1];
+
+//                     if (new_i >= 0 && new_i < n &&
+//                         new_j >= 0 && new_j < n &&
+//                         grid[new_i][new_j] == 0) {
+
+//                         // Mark visited when pushing
+//                         grid[new_i][new_j] = 1;
+
+//                         que.push({new_i, new_j});
+//                     }
+//                 }
+//             }
+
+//             level++;
+//         }
+
+//         return -1;
+//     }
+// };
 
 // //method -2 BFS 
 // class Solution {
