@@ -25,6 +25,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
 |  |
 | ------- |
