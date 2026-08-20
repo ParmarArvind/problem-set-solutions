@@ -26,6 +26,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
@@ -134,6 +135,7 @@
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
 |  |
@@ -142,6 +144,7 @@
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 ## Data Stream
 |  |
 | ------- |
