@@ -134,6 +134,7 @@
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Matrix
 |  |
 | ------- |
@@ -289,6 +290,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -374,6 +376,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -400,6 +403,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
 ## Topological Sort
 |  |
 | ------- |
