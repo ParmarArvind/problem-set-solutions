@@ -1,56 +1,60 @@
+// multi source BFS TC=n*m  SC=n*m
 class Solution {
 public:
-    vector<vector<int>> directions{{1,0},{0,1}, {-1,0},{0,-1}};
-    
+    vector<vector<int>>directions={{1,0},{0,1},{-1,0},{0,-1}};
+
     int orangesRotting(vector<vector<int>>& grid) {
+        int freshOranges=0;
+        
         int m=grid.size();
         int n=grid[0].size();
 
-        queue<pair<int,int>>q; 
-        int freshCount=0;
-        for(int i=0; i<m;i++)
+        queue<pair<int,int>>que;
+        
+        for(int i=0;i<m;i++)
         {
             for(int j=0;j<n;j++)
             {
-                if(grid[i][j] ==2) 
+                if(grid[i][j]==1) freshOranges++;
+                else if(grid[i][j]==2)
                 {
-                    q.push({i,j});
-                }
-                else if(grid[i][j]==1) 
-                {
-                    freshCount++;
+                    que.push({i,j});
                 }
             }
         }
 
-        int minutes=0;
-        if(freshCount==0) return minutes;
-        while(!q.empty())
+        if(freshOranges==0) return 0;
+    
+        int time=0;
+        while(!que.empty())
         {
-            int size=q.size();
+            int size=que.size();
             while(size--)
             {
-                pair<int ,int> curr=q.front();
-                q.pop();
-                
-                int i=curr.first;
-                int j=curr.second;
-                for(auto & dir:directions)
-                {
-                    int new_i=i+dir[0];
-                    int new_j=j+dir[1];
+                auto [i ,j ]=que.front();
+                que.pop();
 
-                    if(new_i >=0 && new_i<m && new_j >=0 && new_j <n && grid[new_i][new_j] == 1)
+                for(auto &dir:directions)
+                {
+                    int ni= i+dir[0];
+                    int nj= j+dir[1];
+
+                    if(ni >=0 && ni<m && nj >=0 && nj<n && grid[ni][nj]==1)
                     {
-                        q.push({new_i,new_j});
-                        grid[new_i][new_j]=2;
-                        freshCount--;
+                        que.push({ni,nj});
+                        grid[ni][nj]=2;
+                        freshOranges--;
                     }
                 }
             }
-            minutes++;
+            time++;
         }
 
-        return freshCount==0 ? minutes-1 : -1;
+        return freshOranges==0 ? time-1 : -1;
     }
 };
+
+
+
+
+
