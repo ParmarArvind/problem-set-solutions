@@ -30,6 +30,7 @@
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -103,6 +104,7 @@
 | [0743-network-delay-time](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -441,6 +446,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
