@@ -1,3 +1,4 @@
+// method -2 bottom up with  printing LIS string
 class Solution {
 public:
     int longestCommonSubsequence(string s1, string s2) {
@@ -23,6 +24,25 @@ public:
                 }
             }
         }
+
+
+        // print LIS
+        string LIS;
+        int i=m;
+        int j=n;
+        while(i>0 && j>0)
+        {
+            if(s1[i-1]==s2[j-1]) {
+                LIS.push_back(s1[i-1]);
+                i-- ,j--;
+            }
+            else {
+                if(dp[i-1][j]>dp[i][j-1]) i--;
+                else j--;
+            }
+        }
+        reverse(LIS.begin() ,LIS.end());
+        cout<<LIS<<endl;
 
         return  dp[m][n];
     }
