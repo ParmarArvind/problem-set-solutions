@@ -1,27 +1,49 @@
+// method 3 Patience Sorting 
+// TC= (nlogn)
 class Solution {
 public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
-        vector<int>t(n+1,1);
-        int maxLIS=1;
-        for(int curr=0;curr<n;curr++)
-        {
-            for(int prev=0;prev<curr;prev++)
-            {
-                int take=0;
-                if(nums[prev]<nums[curr]) 
-                {
-                    take =1+t[prev];
-                    t[curr]=max(t[curr] , take);
-                    maxLIS=max(maxLIS,t[curr]);
-                }
+        vector<int>sorted;
 
-            }
+        for(int i=0;i<n;i++)
+        {
+            auto it=lower_bound(sorted.begin() ,sorted.end(),nums[i]);
+
+            if(it==end(sorted)) sorted.push_back(nums[i]);
+            else *it=nums[i];
+
         }
 
-        return maxLIS;
+        return sorted.size();
     }
 };
+
+// method -2 bottom up  TC= O(n^2) SC+O(N)
+// class Solution {
+// public:
+//     int lengthOfLIS(vector<int>& nums) {
+//         int n=nums.size();
+//         vector<int>t(n+1,1);
+//         int maxLIS=1;
+//         for(int curr=0;curr<n;curr++)
+//         {
+//             for(int prev=0;prev<curr;prev++)
+//             {
+//                 int take=0;
+//                 if(nums[prev]<nums[curr]) 
+//                 {
+//                     take =1+t[prev];
+//                     t[curr]=max(t[curr] , take);
+//                     maxLIS=max(maxLIS,t[curr]);
+//                 }
+
+//             }
+//         }
+
+//         return maxLIS;
+//     }
+// };
 
 // class Solution {
 // public:
