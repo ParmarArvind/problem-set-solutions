@@ -195,6 +195,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Two Pointers
@@ -221,6 +222,7 @@
 | [0368-largest-divisible-subset](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -499,5 +501,6 @@
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
