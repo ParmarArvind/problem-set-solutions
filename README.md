@@ -162,6 +162,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0445-add-two-numbers-ii) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0131-palindrome-partitioning) |
@@ -517,4 +519,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
