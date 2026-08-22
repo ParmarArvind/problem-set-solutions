@@ -508,4 +508,8 @@
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
