@@ -1,40 +1,80 @@
-// method -3 bottom up tc= O(n^2)  ,sc=(n^2)
+// method -4 tc= O(n^2)  ,sc=(1)
 class Solution {
 public:
-    string longestPalindrome(string s) {
-        int n=s.size();
-        vector<vector<bool>>isPalindrome(n,vector<bool>(n,false) );
-        // state isPalindrome[i][j]=true  -> s[i:j] is palindrome 
-        string result;
-        for(int L=1;L<=n ;L++)
+    int n;
+    int check(int i,int j , string& s)
+    {
+        int length=0;
+        while(i>=0 && j<n && s[i]==s[j])
         {
-            for(int i=0; i+L-1<n ;i++)
+            length++;
+            i-- ,j++;
+        }
+        return length;
+    }
+    string longestPalindrome(string s) {
+        n=s.size();
+        string result;
+        for(int i=0;i<n;i++)
+        {
+            int oddLength=check(i,i,s);
+            int evenLength=check(i,i+1,s);
+
+            if(oddLength*2-1 >result.size())
             {
-                int j=i+L-1;
-
-                if(i==j) 
-                {
-                    isPalindrome[i][j]=true;
-                }
-                else if (i+1==j)
-                {
-                    isPalindrome[i][j]= (s[i]==s[j]);
-                }
-                else {
-                    isPalindrome[i][j]= (s[i]==s[j] && isPalindrome[i+1][j-1]);
-                }
-
-                if(isPalindrome[i][j] ==true && j-i+1> result.size())
-                {
-                    result=s.substr(i ,j-i+1);
-                }
-
+                int startIdx=i-oddLength+1;
+                result=s.substr(startIdx, oddLength*2-1);
             }
+            if(evenLength*2 >result.size())
+            {
+                int startIdx=i-evenLength+1;
+                result =s.substr(startIdx,evenLength*2);
+            }
+
         }
 
         return result;
     }
 };
+
+
+// // method -3 bottom up tc= O(n^2)  ,sc=(n^2)
+// class Solution {
+// public:
+//     string longestPalindrome(string s) {
+//         int n=s.size();
+//         vector<vector<bool>>isPalindrome(n,vector<bool>(n,false) );
+//         // state isPalindrome[i][j]=true  -> s[i:j] is palindrome 
+//         string result;
+//         for(int L=1;L<=n ;L++)
+//         {
+//             for(int i=0; i+L-1<n ;i++)
+//             {
+//                 int j=i+L-1;
+
+//                 if(i==j) 
+//                 {
+//                     isPalindrome[i][j]=true;
+//                 }
+//                 else if (i+1==j)
+//                 {
+//                     isPalindrome[i][j]= (s[i]==s[j]);
+//                 }
+//                 else {
+//                     isPalindrome[i][j]= (s[i]==s[j] && isPalindrome[i+1][j-1]);
+//                 }
+
+//                 if(isPalindrome[i][j] ==true && j-i+1> result.size())
+//                 {
+//                     result=s.substr(i ,j-i+1);
+//                 }
+
+//             }
+//         }
+
+//         return result;
+//     }
+// };
 
 // // method -2 recu +memo tc= O(n^2)  ,sc=(n^2)
 // class Solution {
