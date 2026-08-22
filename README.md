@@ -6,6 +6,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -225,6 +227,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0131-palindrome-partitioning) |
