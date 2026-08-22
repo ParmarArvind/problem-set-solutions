@@ -17,18 +17,16 @@ public:
     {
         memset(t,-1,sizeof(t));
         return solve(s1,s2,0,0);
-    }
-    int LPS(string &s1)
-    {
+      }
+
+    int minInsertions(string s1) {
+        n=s1.size();
         string s2;
         for(int i=n-1;i>=0;i--)
         {
             s2.push_back(s1[i]);
         }
-        return LCS(s1,s2);
-    }
-    int minInsertions(string s) {
-        n=s.size();
-        return n-LPS(s);
+        return n-LCS(s1,s2);
+        
     }
 };
