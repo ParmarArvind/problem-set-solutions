@@ -18,6 +18,7 @@
 | [0239-sliding-window-maximum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -244,6 +245,7 @@
 | [0213-house-robber-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0647-palindromic-substrings) |
@@ -541,4 +543,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
