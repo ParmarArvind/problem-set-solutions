@@ -37,6 +37,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3866-first-unique-even-element](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -163,6 +164,7 @@
 | [1631-path-with-minimum-effort](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Data Stream
 |  |
 | ------- |
@@ -254,6 +256,7 @@
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Simulation
 |  |
 | ------- |
