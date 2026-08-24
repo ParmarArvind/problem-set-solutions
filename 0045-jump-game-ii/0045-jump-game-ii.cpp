@@ -9,6 +9,8 @@ public:
 
         if(dp[idx] != -1) return dp[idx];
 
+        if(nums[idx]>= nums.size()-idx-1) return dp[idx]=1;
+
         int result=INT_MAX;
         for(int step = 1; step <= nums[idx]; step++)
         {
