@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0064-minimum-path-sum) |
@@ -428,6 +430,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
