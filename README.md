@@ -37,6 +37,7 @@
 | [1765-map-of-highest-peak](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1765-map-of-highest-peak) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
@@ -434,6 +435,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Union-Find
 |  |
 | ------- |
