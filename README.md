@@ -22,6 +22,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0733-flood-fill](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -183,6 +184,7 @@
 | [0368-largest-divisible-subset](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -254,6 +256,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1092-shortest-common-supersequence) |
@@ -559,4 +562,16 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
