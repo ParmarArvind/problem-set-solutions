@@ -94,6 +94,7 @@
 | [0155-min-stack](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0856-score-of-parentheses](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -222,6 +223,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0686-repeated-string-match) |
+| [0856-score-of-parentheses](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0856-score-of-parentheses) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1048-longest-string-chain](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -589,4 +591,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/ParmarArvind/problem-set-solutions/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
