@@ -42,6 +42,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2097-valid-arrangement-of-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ParmarArvind/problem-set-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
