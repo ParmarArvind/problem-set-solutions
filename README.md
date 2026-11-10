@@ -47,6 +47,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3693-climbing-stairs-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -286,6 +287,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/ParmarArvind/problem-set-solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3693-climbing-stairs-ii](https://github.com/ParmarArvind/problem-set-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Simulation
 |  |
 | ------- |
